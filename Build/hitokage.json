@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "x-tech20191213",
+"productVersion": "0.1",
+"dataUrl": "hitokage.data.unityweb",
+"wasmCodeUrl": "hitokage.wasm.code.unityweb",
+"wasmFrameworkUrl": "hitokage.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.15f1"
+}
